@@ -7,7 +7,7 @@
     android:layout_marginTop="16dp"
     >
 
-    <!-- This is for the shapable image view of the app user-->
+    <!-- This  is for the shapable image view of the app user-->
     <de.hdodenhof.circleimageview.CircleImageView
         android:layout_width="65dp"
         android:layout_height="65dp"
@@ -22,7 +22,7 @@
         android:textSize="20sp"
         android:layout_marginStart="5dp"
 
-        android:text="mr_me"
+        android:text="mr_mee"
         android:textStyle="bold"
         android:textColor="@color/black"/>
 
